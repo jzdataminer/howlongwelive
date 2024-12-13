@@ -7,7 +7,7 @@ model = joblib.load("lifespan_prediction_model.pkl")
 
 # Streamlit app layout
 def main():
-    st.title("Lifespan Prediction App")
+    st.title("Lifespan Prediction App by AI Class at YU 2024 Fall")
     st.write("Enter the details below to predict lifespan.")
 
     # User inputs
